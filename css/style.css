@@ -81,6 +81,7 @@ p {
 
 .l-heading {
   font-size: 40px;
+  line-height: 1.2;
 }
 
 /* Padding */
@@ -204,12 +205,12 @@ p {
 #about-info .info-left {
   float: left;
   width: 50%;
-  min-height: 100%  ;
+  min-height: 100%;
 }
 
 /* Testimonials Info */
 #testimonials {
-  height: 600px;
+  height: 100%;
   background: url(../images/test-bg.jpg) no-repeat center center/cover;
   padding-top: 100px;
 }
